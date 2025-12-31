@@ -17,7 +17,7 @@
    "description": null,
    "docstatus": 0,
    "dt": "Attendance",
-   "fetch_from": null,
+   "fetch_from": "employee.branch",
    "fetch_if_empty": 0,
    "fieldname": "custom_branch",
    "fieldtype": "Link",

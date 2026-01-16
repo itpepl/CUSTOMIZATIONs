@@ -685,7 +685,7 @@
    "name": "Vehicle-custom_tankertype",
    "no_copy": 0,
    "non_negative": 0,
-   "options": "Tanker\nMedium Tanker\nHeavy Tanker\nTurbo Tanker\nMagic\nAuto\nPickup \nBalero",
+   "options": "Tanker\nMedium Tanker\nHeavy Tanker\nTurbo Tanker\nMagic\nAuto\nPickup\nBolero",
    "owner": "Administrator",
    "permlevel": 0,
    "placeholder": null,

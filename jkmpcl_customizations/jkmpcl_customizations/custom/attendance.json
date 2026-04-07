@@ -435,7 +435,7 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-   "creation": "2026-01-28 11:39:10.254631",
+   "creation": "2026-04-07 16:27:05.641249",
    "default_value": null,
    "doc_type": "Attendance",
    "docstatus": 0,
@@ -443,15 +443,15 @@
    "field_name": "status",
    "idx": 0,
    "is_system_generated": 0,
-   "modified": "2026-03-18 11:48:12.302021",
+   "modified": "2026-04-07 16:27:05.641249",
    "modified_by": "Administrator",
-   "module": "JKMPCL HR",
+   "module": "JKMPCL CUSTOMIZATIONS",
    "name": "Attendance-status-options",
    "owner": "Administrator",
    "property": "options",
-   "property_type": "Text",
+   "property_type": "Select",
    "row_name": null,
-   "value": "\nPresent\nAbsent\nOn Leave\nHalf Day\nWork From Home\nPartially\nWeekly Off\nRestricted Holiday\nHoliday"
+   "value": "Present\nAbsent\nOn Leave\nHalf Day\nWork From Home\nPartially\nWeekly Off\nRestricted Holiday\nHoliday"
   },
   {
    "_assign": null,
